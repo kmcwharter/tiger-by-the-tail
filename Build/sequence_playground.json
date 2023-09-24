@@ -1,0 +1,16 @@
+{
+"companyName": "KristinMcWharter",
+"productName": "wall-ball",
+"productVersion": "0.1",
+"dataUrl": "sequence_playground.data.unityweb",
+"wasmCodeUrl": "sequence_playground.wasm.code.unityweb",
+"wasmFrameworkUrl": "sequence_playground.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#CFCFCF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.13f1"
+}
