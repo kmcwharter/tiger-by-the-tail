@@ -1,0 +1,16 @@
+{
+"companyName": "KristinMcWharter",
+"productName": "wall-ball",
+"productVersion": "0.1",
+"dataUrl": "tiger.data.unityweb",
+"wasmCodeUrl": "tiger.wasm.code.unityweb",
+"wasmFrameworkUrl": "tiger.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#CFCFCF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.11f1"
+}
